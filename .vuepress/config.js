@@ -16,7 +16,7 @@ module.exports = config({
   
   themeConfig: {
     logo: "/logo.svg",
-    hostname: "https://BTY-Docs.github.io",
+    hostname: "https://btydocs.github.io",
     darkmode: 'switch',
     themeColor: false,
     breadcrumb: false,
@@ -24,7 +24,7 @@ module.exports = config({
     feed: false,
     searchPlaceholder:'Search',
     author: "",
-    repo: "https://github.com/BTY-Docs/BTY-Docs.github.io",
+    repo: "https://github.com/btydocs/btydocs.github.io",
     pageInfo:['author','time'],
     // -------导航部分
     locales: {
