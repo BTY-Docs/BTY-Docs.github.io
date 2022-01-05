@@ -24,7 +24,7 @@ module.exports = config({
     feed: false,
     searchPlaceholder:'Search',
     author: "",
-    repo: "https://github.com/bityuan/BTY-Docs.github.io",
+    repo: "https://github.com/BTY-Docs/BTY-Docs.github.io",
     pageInfo:['author','time'],
     // -------导航部分
     locales: {
